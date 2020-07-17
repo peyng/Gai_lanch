@@ -103,8 +103,8 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <font color="blue"><h2>料理</h2></font>
-<a href="20200717_002.JPG" data-lightbox="abc"><img src="20200717_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20200717_003.JPG" data-lightbox="abc"><img src="20200717_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200717_002.JPG" data-lightbox="abc"><img src="20200717_002.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="20200717_003.JPG" data-lightbox="abc"><img src="20200717_003.JPG" alt="サンプル画像" width="1000" /></a>
 <!--
 <a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="300" /></a>
 <a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="300" /></a>
@@ -115,7 +115,7 @@ a.p:hover span {
 
 <section>
 <h2>気象庁、高解像度降水ナウキャスト</h2>
- <iframe src="https://www.jma.go.jp/jp/highresorad/" width="900" height="1500" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.jma.go.jp/jp/highresorad/" width="1000" height="1800" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
    <p>&#160;</p>
 
