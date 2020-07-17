@@ -177,11 +177,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
    <p>&#160;</p>
- <main>
- <h2>簡易会計計算</h2>
-<h2>
- <a href="https://peyng.github.io/seisan-2/" target="_blank">簡易会計計算、多人数対応バージョンアップ版！</a>
-  </h2>  </main>
+
        <p>&#160;</p>
 <main><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
@@ -197,7 +193,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景は半澤幸彦 送別会、2019/08/30撮影@うず潮 ~~~ (^^)/</marquee></p>
+
 <!--      
 <p align="right"><marquee direction="left" scrollamount="10" width="80%">背景は佐々木正美 送別会@なかはら、2011/01/14撮影 ~~~ (^^)/</marquee></p>-->
 
