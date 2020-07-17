@@ -100,7 +100,7 @@ a.p:hover span {
 </p>
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ガイおべんとうのHPへようこそ !!!</marquee></span></h1>
-<p align="left"> <img src="qr_gai_lunch.jpg" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_gai_lunch.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <font color="blue"><h2>料理</h2></font>
