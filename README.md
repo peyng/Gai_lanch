@@ -118,7 +118,7 @@ a.p:hover span {
 
 <section>
 <h2>気象庁、高解像度降水ナウキャスト</h2>
- <iframe src="https://www.jma.go.jp/jp/highresorad/" width="1000" height="1800" frameborder="0" style="border:0" allowfullscreen></iframe>
+ <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="1080" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
    <p>&#160;</p>
 
