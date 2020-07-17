@@ -60,7 +60,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/Gai_lunchi/20200717_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/Gai_lunch/20200717_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
