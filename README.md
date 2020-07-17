@@ -116,8 +116,8 @@ a.p:hover span {
 <iframe width="840" height="473" src="https://www.youtube.com/embed/BckX9Er7g6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 -->
 <font color="blue"><h2>料理</h2></font>
-<a href="20200717_002.jpg" data-lightbox="abc"><img src="20200717_002.jpg" alt="サンプル画像" width="300" /></a>
-<a href="20200717_003.jpg" data-lightbox="abc"><img src="20200717_003.jpg" alt="サンプル画像" width="300" /></a>
+<a href="20200717_002.JPG" data-lightbox="abc"><img src="20200717_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20200717_003.JPG" data-lightbox="abc"><img src="20200717_003.JPG" alt="サンプル画像" width="900" /></a>
 <!--
 <a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="300" /></a>
 <a href="20190830_010.jpg" data-lightbox="abc"><img src="20190830_010.jpg" alt="サンプル画像" width="300" /></a>
@@ -171,6 +171,7 @@ E-mail Yuichi_Yoshimura@n.t.rd.honda.co.jp<br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 -->
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <section>
 <h2>気象庁、高解像度降水ナウキャスト</h2>
