@@ -103,7 +103,7 @@ a.p:hover span {
 <p align="left"> <img src="QR_gai_lunch.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div>
+<section>
 <font color="blue"><h2>料理</h2></font>
 <h2>ガパオライス</h2>
 <a href="20200717_002.JPG" data-lightbox="abc"><img src="20200717_002.JPG" alt="サンプル画像" width="1000" /></a>
@@ -115,7 +115,7 @@ a.p:hover span {
 <a href="20190830_006.jpg" data-lightbox="abc"><img src="20190830_006.jpg" alt="サンプル画像" width="600" /></a>-->
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15402.316076357512!2d139.89242457635942!3d36.56742182636749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbdf88990c0603c1!2z4Lij4LmJ4Liy4LiZ4LmE4LiB4LmI4Lib4Li04LmI4LiZ4LmC4LiVKOOCrOOCpOOBiuOBueOCk-OBqOOBhik!5e0!3m2!1sja!2sjp!4v1594973319281!5m2!1sja!2sjp" width="1000" height="750" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-</div>
+</section>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
