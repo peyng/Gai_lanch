@@ -1,4 +1,3 @@
-# Gai_lanch
 <html lang="ja">
  <head>
  <meta charset="UTF-8">
