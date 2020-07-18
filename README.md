@@ -107,7 +107,7 @@ a.p:hover span {
 <font color="blue"><h2>料理</h2></font>
 <h2>ガパオライス</h2>
 <a href="20200717_002.JPG" data-lightbox="abc"><img src="20200717_002.JPG" alt="サンプル画像" width="1000" /></a>
-<h2>？　？　？</h2>
+<h2>鶏皮のカリカリ揚げ</h2>
 <a href="20200717_003.JPG" data-lightbox="abc"><img src="20200717_003.JPG" alt="サンプル画像" width="1000" /></a>
 <!--
 <a href="20190830_009.jpg" data-lightbox="abc"><img src="20190830_009.jpg" alt="サンプル画像" width="300" /></a>
