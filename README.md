@@ -123,9 +123,8 @@ a.p:hover span {
 <h2>気象庁、高解像度降水ナウキャスト</h2>
  <iframe src="https://www.jma.go.jp/jp/highresorad/" width="600" height="1080" frameborder="0" style="border:0" allowfullscreen></iframe>
        </section>
-   <p>&#160;</p>
+<br><br>
 
-       <p>&#160;</p>
 <main><span class="blue">
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML Comment Box</a> is loading comments...</div>
