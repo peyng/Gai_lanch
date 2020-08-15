@@ -104,7 +104,7 @@ a.p:hover span {
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h2>宇都宮駅、東口辺りでお弁当を販売しています。<br>20:00~20:30までは、店舗での直接販売もあり！</h2>
+<h1><span class="yellow"><marquee behavior="left">宇都宮駅、東口辺りでお弁当を販売しています。<br>20:00~20:30までは、店舗での直接販売もあり！</marquee></span></h1>
 <section>
 <font color="blue"><h2>料理</h2></font>
 <h2>ガパオライス</h2>
