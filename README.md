@@ -101,8 +101,10 @@ a.p:hover span {
 	
 <h1><span class="yellow"><marquee behavior="left">!!! ガイおべんとうのHPへようこそ !!!</marquee></span></h1>
 <p align="left"> <img src="QR_gai_lunch.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2>宇都宮駅、東口辺りでお弁当を販売しています。<br>20:00~20:30までは、店舗での直接販売もあり！</h2>
 <section>
 <font color="blue"><h2>料理</h2></font>
 <h2>ガパオライス</h2>
@@ -155,5 +157,5 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="white">Copyright 2020/07/17 peyng</span>
+	<span class="white">Copyright 2020/07/17 S,Hada</span>
  </footer>
