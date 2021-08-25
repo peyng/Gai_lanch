@@ -60,7 +60,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://peyng.github.io/Gai_lunch/20200717_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://peyng.github.io/Gai_lunch/20200717_004.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -108,7 +108,7 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">20:00~20:30までは、店舗での直接販売もあり！</marquee></span></h1>
 <section>
 	
-<a href="20200717_004.JPG" data-lightbox="abc"><img src="20200717_004.JPG" alt="サンプル画像" width="1000" /></a>
+<a href="20200717_001.JPG" data-lightbox="abc"><img src="20200717_001.JPG" alt="サンプル画像" width="1000" /></a>
 <a href="20200717_005.JPG" data-lightbox="abc"><img src="20200717_005.JPG" alt="サンプル画像" width="1000" /></a>
 <a href="20200717_006.JPG" data-lightbox="abc"><img src="20200717_006.JPG" alt="サンプル画像" width="1000" /></a>
 
